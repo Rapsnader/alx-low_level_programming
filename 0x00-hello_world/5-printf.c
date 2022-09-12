@@ -4,7 +4,7 @@
 * main - print the string in the fprintf function
 *
 * Description: using the function main
-* return : 0
+* Return: 0
 */
 int main(void)
 {
