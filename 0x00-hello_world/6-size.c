@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - print the string the size of various types on the computer it is compiled and run on
+* main - print the string the size of various types
 *
 * Description: using the main function to write the code
 * Return: 0
