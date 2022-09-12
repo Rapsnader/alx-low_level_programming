@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Main -  printing using the put function 
+ * main - printing displaying using the put function 
  *
- * Return  0
+ * Return: 0 succesfully
  */
 int main(void)
 {
