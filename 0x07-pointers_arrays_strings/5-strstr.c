@@ -8,7 +8,6 @@
 * Return: If the substring is located - a pointer to the beginning
 *if the substring is not found - void.
 */
-
 char *_strstr(char *haystack, char *needle)
 {
 	int index;
