@@ -1,10 +1,8 @@
 #include "main.h"
 
-
-
 /**
 
-* create_array - creates an array of chars, and
+* create_array - creates an array of chars.
 
 * initializes it with a specific char.
 
